@@ -1,8 +1,8 @@
-# 🛡️ RedPhanom
+# 🛡️ RedPhantom
 
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)](https://www.python.org/downloads/)
-![GitHub forks](https://img.shields.io/github/forks/Ro0tReaper/RedPhanom?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/Ro0tReaper/RedPhantom?style=flat-square)
 ![Project Age](https://img.shields.io/badge/project-new-blue?style=flat-square)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
 
@@ -10,7 +10,7 @@
 
 
 
-**RedPhanom** is a modular red teaming and penetration testing toolkit written in Python, designed to streamline reconnaissance, exploitation, payload delivery, and obfuscation tasks. Built with extensibility and stealth in mind, RedPhanom equips offensive security professionals with a powerful command-line Swiss army knife for internal assessments, CTFs, and adversary simulations.
+**RedPhantom** is a modular red teaming and penetration testing toolkit written in Python, designed to streamline reconnaissance, exploitation, payload delivery, and obfuscation tasks. Built with extensibility and stealth in mind, RedPhantom equips offensive security professionals with a powerful command-line Swiss army knife for internal assessments, CTFs, and adversary simulations.
 
 ---
 
@@ -49,7 +49,7 @@
 ## 🧱 Structure
 
 ```bash
-RedPhanom/
+RedPhantom/
 ├── core/ # Core logic (menu, dispatcher)
 ├── modules/ # Recon, exploit, post-ex, etc.
 │ ├── recon/
@@ -81,8 +81,8 @@ pip install -r requirements.txt
 ## Basic usage ▶️
 
 ```bash
-git clone https://github.com/yourusername/RedPhanom
-cd RedPhanom
+git clone https://github.com/yourusername/RedPhantom
+cd RedPhantom
 pip install -r requirements.txt
 python3 main.py
 ```
@@ -141,4 +141,4 @@ Feel free to submit PRs with new modules, bug fixes, or enhancements!
 ---
 
 ## 👨‍💻 Author
->RedPhanom was built by Mohamed Yossery (@Ro0tReaper) a junior offensive security enginner
+>RedPhantom was built by Mohamed Yossery (@Ro0tReaper) a junior offensive security enginner
