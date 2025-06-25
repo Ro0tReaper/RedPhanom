@@ -4,7 +4,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)](https://www.python.org/downloads/)
 ![GitHub forks](https://img.shields.io/github/forks/Ro0tReaper/RedPhantom?style=flat-square)
 ![Project Age](https://img.shields.io/badge/project-new-blue?style=flat-square)
-[![GitHub stars](https://img.shields.io/github/stars/Ro0tReaper/RedPhanom?style=flat-square)](https://github.com/Ro0tReaper/RedPhanom/stargazers)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
 
 
