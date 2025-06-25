@@ -226,6 +226,7 @@ def postex_menu():
         table.add_row("[b]", "Back")
 
         console.print(table)
+        console.print("[red][Note] move RedPhantom to the target machine in order for it to gather information[/red]\n")
         choice = Prompt.ask("[bold yellow]Select option[/]", choices=['1','2','3','4','5','6','7','b'])
 
         if choice == '1':
