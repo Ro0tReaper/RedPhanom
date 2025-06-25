@@ -7,10 +7,9 @@
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen?style=flat-square)
 
 
-
-
-
 **RedPhantom** is a modular red teaming and penetration testing toolkit written in Python, designed to streamline reconnaissance, exploitation, payload delivery, and obfuscation tasks. Built with extensibility and stealth in mind, RedPhantom equips offensive security professionals with a powerful command-line Swiss army knife for internal assessments, CTFs, and adversary simulations.
+
+![RedPhantom](assets/image.jpg)
 
 ---
 
