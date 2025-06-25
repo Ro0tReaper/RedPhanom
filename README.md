@@ -1,6 +1,6 @@
 # 🛡️ RedPhanom
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/Ro0tReaper/RedPhanom/python.yml?branch=main&style=flat-square)](https://github.com/Ro0tReaper/RedPhanom/actions)
+
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/github/license/Ro0tReaper/RedPhanom?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Ro0tReaper/RedPhanom?style=flat-square)](https://github.com/Ro0tReaper/RedPhanom/stargazers)
