@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/github/license/Ro0tReaper/RedPhanom?style=flat-square)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Ro0tReaper/RedPhanom?style=flat-square)](https://github.com/Ro0tReaper/RedPhanom/stargazers)
 
-...
+
 
 
 **RedPhanom** is a modular red teaming and penetration testing toolkit written in Python, designed to streamline reconnaissance, exploitation, payload delivery, and obfuscation tasks. Built with extensibility and stealth in mind, RedPhanom equips offensive security professionals with a powerful command-line Swiss army knife for internal assessments, CTFs, and adversary simulations.

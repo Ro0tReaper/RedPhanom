@@ -4,8 +4,6 @@ def main_menu():
     banner.print_banner()
     while True:
         print("""
-[+] RedPhantom - The Modular Red Teaming Toolkit
-
 [1] Reconnaissance
 [2] Exploitation
 [3] Payload Generator
